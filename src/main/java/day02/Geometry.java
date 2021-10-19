@@ -1,6 +1,4 @@
-package day02.day02;
-
-import day02.Rectangle;
+package day02;
 
 public class Geometry {
     public static void main(String[] args) {
